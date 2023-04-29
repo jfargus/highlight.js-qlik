@@ -30,6 +30,8 @@ the browser as well as on the server. It can work with pretty much any
 markup, doesn’t depend on any other frameworks, and has automatic language
 detection.
 
+This fork of Highlight.js adds support for qlikscript syntax highlighting with support for correctly formatted must_include, trace, and most other qlikscript syntax. 
+
 **Contents**
 
 - [Basic Usage](#basic-usage)
