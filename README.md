@@ -24,13 +24,12 @@
 <!-- [![Total Lines](https://img.shields.io/tokei/lines/github/highlightjs/highlight.js)]() -->
 <!-- [![npm bundle size (minified + gzip)](https://img.shields.io/bundlephobia/minzip/highlight.js.svg)](https://bundlephobia.com/result?p=highlight.js) -->
 
+This fork of Highlight.js adds support for qlikscript syntax highlighting with language alias 'qlik'.
 
 Highlight.js is a syntax highlighter written in JavaScript. It works in
 the browser as well as on the server. It can work with pretty much any
 markup, doesn’t depend on any other frameworks, and has automatic language
 detection.
-
-This fork of Highlight.js adds support for qlikscript syntax highlighting with support for correctly formatted must_include, trace, and most other qlikscript syntax. 
 
 **Contents**
 
